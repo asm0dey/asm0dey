@@ -12,7 +12,7 @@ Author and maintainer of [Kotlin API for Apache Spark](https://github.com/JetBra
 
 ## Streaks are not always that easy
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asm0dey&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asm0dey&theme=gruvbox&hide_border=true&date_format=%5BY%2F%5Dn%2Fj)](https://git.io/streak-stats) 
  
 
 <!--
