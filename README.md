@@ -4,7 +4,7 @@ Author and maintainer of [Kotlin API for Apache Spark](https://github.com/JetBra
 
 ## My HitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asm0dey&theme=dracula&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asm0dey&theme=gruvbox&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 # I'm active in opensource
 
@@ -12,7 +12,7 @@ Author and maintainer of [Kotlin API for Apache Spark](https://github.com/JetBra
 
 ## For last years it is
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asm0dey&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asm0dey&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
  
 
 <!--
