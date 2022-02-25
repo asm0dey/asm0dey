@@ -2,7 +2,7 @@
 
 Author and maintainer of [Kotlin API for Apache Spark](https://github.com/JetBrains/kotlin-spark-api), helping [jolanrensen](https://github.com/jolanrensen) to keep it awesome.
 
-## My HitHub Achievements
+## My GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=asm0dey&theme=gruvbox&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
