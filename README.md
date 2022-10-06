@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[//]: # should not be visible
+[//]: # (should not be visible)
 
 Author and maintainer of [Kotlin API for Apache Spark](https://github.com/JetBrains/kotlin-spark-api), helping [jolanrensen](https://github.com/jolanrensen) to keep it awesome.
 
