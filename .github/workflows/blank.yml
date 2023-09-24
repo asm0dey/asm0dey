@@ -36,7 +36,7 @@ jobs:
         run: |
           ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
           test -f ${{ steps.snake-gif.outputs.gif_out_path }}
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      - uses: crazy-max/ghaction-github-pages@v2.7.0
         with:
           target_branch: output
           build_dir: dist
