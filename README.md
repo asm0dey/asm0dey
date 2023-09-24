@@ -17,7 +17,13 @@ Author and maintainer of [Kotlin API for Apache Spark](https://github.com/JetBra
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asm0dey&theme=gruvbox&hide_border=true&date_format=%5BY%2F%5Dn%2Fj)](https://git.io/streak-stats) 
  
  ![](https://raw.githubusercontent.com/asm0dey/asm0dey/output/github-contribution-grid-snake.svg)
- 
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 <!--
 **asm0dey/asm0dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
